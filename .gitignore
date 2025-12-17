@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Library
+/ProjectSettings
+/Assets/Settings
+/UserSettings
+*.csproj
+.vsconfig
+Assets/InputSystem_Actions.inputactions
